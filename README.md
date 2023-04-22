@@ -11,6 +11,7 @@ An **Responsive** web admin panel for a car dealership website
 
  Creating an sale employee will automaticly create an employee account in the database and he can login to employee dashboard
 
+> change the /helper/dp_con.php to your database info
 
 ## Preview
 
