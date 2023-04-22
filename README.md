@@ -6,7 +6,7 @@ An **Responsive** web admin panel for a car dealership website
 - javaScript
 - css
 - php
-- sql for the database
+- sql for the database **3NF**
 - Bootsrtap
 
  Creating an sale employee will automaticly create an employee account in the database and he can login to employee dashboard
